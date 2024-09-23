@@ -1,0 +1,1 @@
+query_id=AAF7LqscAwAAAHsuqxzQ9ToY&user=%7B%22id%22%3A6923431547%2C%22first_name%22%3A%22Yogurt%F0%9F%8D%85%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22yogurutto%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726577670&hash=3b5b58f0e6da76db18ba750d69139e7c1b2d2c8fc00d33d95bff547653037f29
